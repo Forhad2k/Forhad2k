@@ -19,7 +19,7 @@ Currently, I am working on:
 
 ### Languages
 <div style="display: flex; flex-wrap: wrap; gap: 10px;">
-<img src="https://www.clipartmax.com/png/middle/68-688026_html-5-icon-html5-css3-logo-png.png" width="auto" height="50">
+<img src="https://www.nicepng.com/png/detail/34-345908_html-css-icon-png.png" width="auto" height="50">
 
 
 
