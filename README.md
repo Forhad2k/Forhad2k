@@ -35,7 +35,7 @@ Currently, I am working on:
 
 
 ### Databases
-<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/93/MongoDB_Logo.svg/2560px-MongoDB_Logo.svg.png" width="auto" height="50">
+<img src="https://raw.githubusercontent.com/tandpfun/skill-icons/65dea6c4eaca7da319e552c09f4cf5a9a8dab2c8/icons/MongoDB.svg" width="auto" height="50">
 
 
 ## Projects 🌱
