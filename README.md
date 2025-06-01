@@ -19,9 +19,8 @@ Currently, I am working on:
 
 ### Languages
 <div style="display: flex; flex-wrap: wrap; gap: 10px;">
-<img src="https://e7.pngegg.com/pngimages/780/934/png-clipart-html-logo-html5-logo-icons-logos-emojis-tech-companies.png" width="auto" height="50">
-<img src="https://pngdownload.io/wp-content/uploads/2023/12/CSS-Logo-PNG-Symbol-for-Web-Development-Transparent-jpg-1950x2048.webp" width="auto" height="50">
-<img src="https://banner2.cleanpng.com/20190129/vxi/kisspng-javascript-web-applications-scalable-vector-graphi-1713908481051.webp" width="auto" height="50">
+<img src="https://www.clipartmax.com/png/middle/68-688026_html-5-icon-html5-css3-logo-png.png" width="auto" height="50">
+
 
 
 ### Frameworks & Libraries
