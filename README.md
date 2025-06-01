@@ -19,8 +19,9 @@ Currently, I am working on:
 
 ### Languages
 <div style="display: flex; flex-wrap: wrap; gap: 10px;">
-<img src="https://www.nicepng.com/png/detail/34-345908_html-css-icon-png.png" width="auto" height="50">
-
+<img src="https://raw.githubusercontent.com/tandpfun/skill-icons/65dea6c4eaca7da319e552c09f4cf5a9a8dab2c8/icons/HTML.svg" width="auto" height="50">
+<img src="https://raw.githubusercontent.com/tandpfun/skill-icons/65dea6c4eaca7da319e552c09f4cf5a9a8dab2c8/icons/CSS.svg" width="auto" height="50">
+<img src="https://raw.githubusercontent.com/tandpfun/skill-icons/65dea6c4eaca7da319e552c09f4cf5a9a8dab2c8/icons/JavaScript.svg" width="auto" height="50">
 
 
 ### Frameworks & Libraries
