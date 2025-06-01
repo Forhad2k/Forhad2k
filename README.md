@@ -50,9 +50,12 @@ Currently, I am working on:
 
 
 ## How to Reach Me 📫
+<div style="display: flex; flex-wrap: wrap; gap: 10px;">
+<a src="https://www.linkedin.com/in/fahad-hassan-069493202/"><img src="https://camo.githubusercontent.com/bd4111e83b2f1cc0d8bd771280353e4eb7e0e6408de2eb749aee4a740343cd7c/68747470733a2f2f736b696c6c69636f6e732e6465762f69636f6e733f693d6c696e6b6564696e" width="auto" height="50"></a>
+<a src="https://www.facebook.com/farhar.hossain"><img src="https://raw.githubusercontent.com/MuhammadRukon/MuhammadRukon/main/facebook.png" width="auto" height="50"></a>
+  
 - **Email**: [fh594694@gmail.com]
-- **LinkedIn**: [https://www.linkedin.com/in/fahad-hassan-069493202/]
-- **Facebook**: [https://www.facebook.com/farhar.hossain]
+
 
 ## Let's Collaborate 🤝
 I'm always open to collaborating on exciting projects or discussing the latest trends in frontend development. Feel free to reach out through my email or connect with me on LinkedIn.
