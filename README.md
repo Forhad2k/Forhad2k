@@ -19,9 +19,9 @@ Currently, I am working on:
 
 ### Languages
 <div style="display: flex; flex-wrap: wrap; gap: 10px;">
-<img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQEc9A_S6BPxCDRp5WjMFEfXrpCu1ya2OO-Lw&s" width="auto" height="50">
-<img src="https://static.wikia.nocookie.net/coding-help/images/0/05/CSS3_Logo.PNG/revision/latest/thumbnail/width/360/height/360?cb=20210129221230" width="auto" height="50">
-<img src="https://www.clipartmax.com/png/middle/150-1504620_javascript-logo.png" width="auto" height="50">
+<img src="https://e7.pngegg.com/pngimages/780/934/png-clipart-html-logo-html5-logo-icons-logos-emojis-tech-companies.png" width="auto" height="50">
+<img src="https://pngdownload.io/wp-content/uploads/2023/12/CSS-Logo-PNG-Symbol-for-Web-Development-Transparent-jpg-1950x2048.webp" width="auto" height="50">
+<img src="https://banner2.cleanpng.com/20190129/vxi/kisspng-javascript-web-applications-scalable-vector-graphi-1713908481051.webp" width="auto" height="50">
 
 
 ### Frameworks & Libraries
