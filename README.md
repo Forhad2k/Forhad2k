@@ -25,12 +25,12 @@ Currently, I am working on:
 
 
 ### Frameworks & Libraries
-<img src="https://miro.medium.com/v2/resize:fit:522/1*NJSv6DGoKTloI8d8im98zg.png" width="auto" height="50">
+<img src="https://raw.githubusercontent.com/tandpfun/skill-icons/65dea6c4eaca7da319e552c09f4cf5a9a8dab2c8/icons/React-Light.svg" width="auto" height="50">
 
 ### Tools
 <div style="display: flex; flex-wrap: wrap; gap: 10px;">
-<img src="https://brandlogos.net/wp-content/uploads/2021/11/git-logo.png" width="auto" height="50">
-<img src="https://logos-world.net/wp-content/uploads/2020/11/GitHub-Logo.png" width="auto" height="50">
+<img src="https://raw.githubusercontent.com/tandpfun/skill-icons/65dea6c4eaca7da319e552c09f4cf5a9a8dab2c8/icons/Git.svg" width="auto" height="50">
+<img src="https://raw.githubusercontent.com/tandpfun/skill-icons/65dea6c4eaca7da319e552c09f4cf5a9a8dab2c8/icons/Github-Dark.svg" width="auto" height="50">
 
 
 
